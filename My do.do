@@ -6,7 +6,7 @@
 	
 	clear all
 	set more off
-	cd "/Users/rominagoodarzi/Desktop/Applied Econometrics_Workshop_Project"
+	cd "/Users/rominagoodarzi/Desktop/Applied_Econometrics_Workshop_Project"
 
  /*-------------------------------Cleaning---------------------------------*/
 
