@@ -1,4 +1,4 @@
-    set matsize 1000
+        set matsize 1000
 	graph set window fontface "Times New Roman"
 		
 	grstyle init
