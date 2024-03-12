@@ -1,6 +1,6 @@
 clear all
 set more off
-cd "/Users/rominagoodarzi/Desktop/Applied Econometrics_Workshop_Project/Data_files"
+cd "/Users/rominagoodarzi/Desktop/Applied_Econometrics_Workshop_Project/Data_files"
 
 
 //Cleaning
