@@ -4,9 +4,9 @@ use "Result/cleaned.dta", clear
 
 	local varlist0  "age age2 i.educ i.edu"
 	local varlist1  "i.sex age age2 i.educ i.edu"
-	local varlist2 "*.year *.fasl *.ostan *.ur"
+	local varlist2  "*.year *.fasl *.ostan *.ur"
 	local location  "Location FE"
-	local year 		"TimE FE"
+	local year 	"TimE FE"
 	local order "age age2 *.sex *.educ *.edu *.citizen *.mar"
 	
 //step 2: Generate some regression and export them to tex  
